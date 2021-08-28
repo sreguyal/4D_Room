@@ -10,7 +10,7 @@ While we are in the 1<sup>st</sup> dimension, we can move back and forth across 
 Finally, to get to the 3<sup>rd</sup> dimension, aka the dimension humans live in, we jump up off the 2D plane.
 Now, by analogy, to get to the 4<sup>th</sup> dimension, we need to move in a direction we have not moved in yet. If we could just "jump" in a new direction, we would enter the 4<sup>th</sup> dimension. And to cap that short summary, here is a picture of a tesseract -- the 4D equivalent of a cube!
 
-[Schlegel_wireframe_8-cell](https://user-images.githubusercontent.com/60443351/131231581-e37f6300-1afb-47f9-a82d-e42ba5e4dff1.png)
+![Schlegel_wireframe_8-cell](https://user-images.githubusercontent.com/60443351/131231581-e37f6300-1afb-47f9-a82d-e42ba5e4dff1.png)
 
 
 ### What is 4D Room?
@@ -26,9 +26,6 @@ In this project, we begin with representing the shapes mathematically in 4D, cal
 
 The current project stage has achieved visualizations of all six convex regular 4-polytopes -- the four-dimensional equivalent of the platonic solids -- under simple rotations in 2D. In plainer speech, we have a bunch of regular 4D shapes projected into the 2D, so you can view them on your screen. Examples of different tesseract rotations are shown below:
 
-https://user-images.githubusercontent.com/60443351/131231666-80f958e6-d8b5-4540-bfa7-dfb10cfc8dfe.mp4
-
-https://user-images.githubusercontent.com/60443351/131231674-cb61dec7-63f1-4b73-b4ea-0acc46074f67.mp4
 
 
 
