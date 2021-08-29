@@ -6,7 +6,7 @@ You have been transported to a world with four spatial dimensions! Unfortunately
 ### What is the Fourth Spatial Dimension? 
 So, for those who are wondering how we can physically understand the fourth dimension, let's quickly go through the lower dimensions.
 
-The 0<sup>th</sup> dimension is a point. Move in any direction and we get to the 1<sup>st</sup> dimension, a line.
+The 0<>th</sup> dimension is a point. Move in any direction and we get to the 1<sup>st</sup> dimension, a line.
 
 While we are in the 1<sup>st</sup> dimension, we can move back and forth across the line. But we want more excitement in life, so we move away from the line. We have reached a 2D world. You can imagine this as an infinite flat sheet of paper.
 
@@ -35,7 +35,7 @@ We begin with representing the shapes mathematically in 4D, calculate the rotati
 ### Regular 4D Shapes
 Currently, we've created visualizations of all six convex regular 4-polytopes -- the four-dimensional equivalent of the platonic solids -- under simple rotations in 2D. Put simply, we have all six "standard" 4D shapes projected into 2D, so you can view them on your computing device screen. 
 
-Also, note that when we rotate a 4D object, we have to rotate about a plane, such as the XY-plane or the YW-plane (W is the 4<sup>th<\sup> dimension. For more on that, refer to the end of this section. And now, without further ado, here are the visuals created using `pygame` in our Jupyter Notebook!
+Also, note that when we rotate a 4D object, we have to rotate about a plane, such as the XY-plane or the YW-plane (W is the 4<sup>th</sup> dimension. For more on that, refer to the end of this section. And now, without further ado, here are the visuals created using `pygame` in our Jupyter Notebook!
 
 The six convex regular 4-polytopes are: 
 
@@ -82,7 +82,7 @@ Rotation of 4D objects is done about a plane, or a 2D sheet. This can be underst
 
 
 
-### Next Steps![120cell2simplerot](https://user-images.githubusercontent.com/60443351/131238366-d28ca9df-dc06-452b-95c7-c917d507e6ba.gif)
+### Next Steps!
 
 Our main end goal is to look at and interact with these 4D shapes in a VR environment. Being able to walk around these objects and move them
 Upcoming steps include generation of random irregular 4-polytopes and porting to VR. Our original conception of this project was that We are particularly excited about putting these on a VR platform because interacting with these 4D objects as they move in a 3D space made possible by VR would increase the amount of information about these shapes we are able to retain when depicting them. Maybe our 3D brains will be more capable of understanding the 4th dimension!
