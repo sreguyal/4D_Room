@@ -35,20 +35,20 @@ We begin with representing the shapes mathematically in 4D, calculate the rotati
 ### Regular 4D Shapes
 Currently, we've created visualizations of all six convex regular 4-polytopes -- the four-dimensional equivalent of the platonic solids -- under simple rotations in 2D. Put simply, we have all six "standard" 4D shapes projected into 2D, so you can view them on your computing device screen. 
 
-Also, note that when we rotate a 4D object, we have to rotate about a plane. For more on that, refer to the end of this section. And now, without further ado, here are the visuals created using `pygame` in our Jupyter Notebook!
+Also, note that when we rotate a 4D object, we have to rotate about a plane,such as the XY-plane or the YW-plane. For more on that, refer to the end of this section. And now, without further ado, here are the visuals created using `pygame` in our Jupyter Notebook!
 
 The six convex regular 4-polytopes are: 
 
 The tesseract / 8-cell. This is the 4D equivalent of the cube. 
 
 
+![tesseract1simplerot mp4](https://user-images.githubusercontent.com/60443351/131235041-833d1428-2990-437a-b920-1e7297d26381.
 
-https://user-images.githubusercontent.com/60443351/131234823-f10e1db2-c008-4fb4-ab42-57b4872f8d15.mp4
+![tesseract2simplerot](https://user-images.githubusercontent.com/60443351/131235273-21a59ce0-9d0b-405d-87ee-e3d92d82a40b.gif)
+gif)
 
 
-
-
-We start with this polytope because it is probably the most comprehensible out of a set of very incomprehensible figures. The first video depicts one simple rotation about the XY-plane.
+We start with this polytope because it is probably the most comprehensible out of a set of very incomprehensible figures. The first gif depicts one simple rotation about the XY-plane. Although it is about a plane, within 3D space it is only comprehensible as a rotation about an axis, as you can see. The second gif depicts the application of two simple rotations about the XY-plane and YW-plane.
 
 
 
