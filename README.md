@@ -3,7 +3,7 @@ You have been transported to a world with four spatial dimensions! Unfortunately
 
 ## Introduction
 
-### What is 4D? 
+### What is the Fourth Spatial Dimension? 
 So, for those who are wondering how we can physically understand the fourth dimension, let's quickly go through the lower dimensions.
 
 The 0<sup>th</sup> dimension is a point. Move in any direction and we get to the 1<sup>st</sup> dimension, a line.
@@ -35,27 +35,54 @@ We begin with representing the shapes mathematically in 4D, calculate the rotati
 ### Regular 4D Shapes
 Currently, we've created visualizations of all six convex regular 4-polytopes -- the four-dimensional equivalent of the platonic solids -- under simple rotations in 2D. Put simply, we have all six "standard" 4D shapes projected into 2D, so you can view them on your computing device screen. 
 
-Also, note that when we rotate a 4D object, we have to rotate about a plane,such as the XY-plane or the YW-plane. For more on that, refer to the end of this section. And now, without further ado, here are the visuals created using `pygame` in our Jupyter Notebook!
+Also, note that when we rotate a 4D object, we have to rotate about a plane, such as the XY-plane or the YW-plane (W is the 4<sup>th<\sup> dimension. For more on that, refer to the end of this section. And now, without further ado, here are the visuals created using `pygame` in our Jupyter Notebook!
 
 The six convex regular 4-polytopes are: 
 
-The tesseract / 8-cell. This is the 4D equivalent of the cube. 
+**The tesseract** / 8-cell. It is the 4D equivalent of the cube. 
 
 
 ![tesseract1simplerot mp4](https://user-images.githubusercontent.com/60443351/131235041-833d1428-2990-437a-b920-1e7297d26381.gif)
+ 
+We start with this polytope because it is perhaps the most comprehensible out of a set of quite incomprehensible figures. The tesseract hypersurface is bounded by 8 cubical cells, and in total the shape has 24 faces, 32 edges, and 16 vertices. This first gif depicts one simple rotation about the XY-plane. Although it is "about" a plane, in the same way that the earth rotates about its axis, within 3D space the rotation about a plane is only comprehensible as a rotation about an axis.
+  
 
 ![tesseract2simplerot](https://user-images.githubusercontent.com/60443351/131235273-21a59ce0-9d0b-405d-87ee-e3d92d82a40b.gif)
 
+ This gif depicts the application of two simple rotations about the XY-plane and YW-plane.
 
 
-We start with this polytope because it is probably the most comprehensible out of a set of very incomprehensible figures. The first gif depicts one simple rotation about the XY-plane. Although it is about a plane, within 3D space it is only comprehensible as a rotation about an axis, as you can see. The second gif depicts the application of two simple rotations about the XY-plane and YW-plane.
+**4-simplex** / 5-cell. It is the 4D equivalent of the tetrahedron.
+
+![5cell2simplerot](https://user-images.githubusercontent.com/60443351/131237875-bbb2ceeb-9463-4b8d-ba9d-9834c3406f84.gif)
 
 
+**16-cell**. It is the 4D equivalent of the octahedron.
+
+![16cell3simplerot](https://user-images.githubusercontent.com/60443351/131237889-ca2ad42a-0f56-428a-8369-9a1d039b680a.gif)
 
 
+**24-cell**. It has no equivalent in either a lower or higher dimension!
+
+![24cell](https://user-images.githubusercontent.com/60443351/131238336-c0dd8d0b-3502-43a4-8d89-c86c0cda8f86.gif)
+
+
+**120-cell**. It is made of 120 dodecahedral cells bounding the hypersurface, giving a grand total of 720 faces, 1,200 edges, and 600 vertices.
+
+![120cell2simplerot](https://user-images.githubusercontent.com/60443351/131238361-0f34faba-dc7d-447b-9c00-2769f4f802cb.gif)
+
+
+**600-cell**. It is made of 600 tetrahedral cells bounding the hypersurface, producing 1,200 faces, 720 edges, and 120 vertices.
+
+![600cell2simplerot](https://user-images.githubusercontent.com/60443351/131238369-0186ac83-c98d-49da-8c55-0960cd06ab49.gif)
+
+
+**More on Rotations in 4D**
 Rotation of 4D objects is done about a plane, or a 2D sheet. This can be understood by analogy by recalling that a polygon constrained to the 2D plane can only rotate about a point (0D), and a solid constrained to 3D space can only rotate about a line (1D). We can see that in order to rotate an object, it needs a pivot that is two dimensions lower. Following that logic, a 4D object will have to rotate about a 2D sheet. As the object rotates in 4D space, the 2D plane of rotation remains fixed.
 
 
 
+### Next Steps![120cell2simplerot](https://user-images.githubusercontent.com/60443351/131238366-d28ca9df-dc06-452b-95c7-c917d507e6ba.gif)
 
-Upcoming steps include generation of random irregular 4-polytopes and porting to VR. We are particularly excited about putting these on a VR platform because interacting with these 4D objects as they move in a 3D space made possible by VR would increase the amount of information about these shapes we are able to retain when depicting them. Maybe our 3D brains will be more capable of understanding the 4th dimension!
+Our main end goal is to look at and interact with these 4D shapes in a VR environment. Being able to walk around these objects and move them
+Upcoming steps include generation of random irregular 4-polytopes and porting to VR. Our original conception of this project was that We are particularly excited about putting these on a VR platform because interacting with these 4D objects as they move in a 3D space made possible by VR would increase the amount of information about these shapes we are able to retain when depicting them. Maybe our 3D brains will be more capable of understanding the 4th dimension!
