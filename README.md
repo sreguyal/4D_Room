@@ -12,7 +12,7 @@ While we are in the 1<sup>st</sup> dimension, we can move back and forth across 
 
 Finally, to get to the 3<sup>rd</sup> dimension, aka the dimension humans live in, we jump up off the 2D plane.
 
-Now, by analogy, to get to the 4<sup>th</sup> dimension, we need to move in a direction we have not moved in yet. If we could just "jump" in a new direction, we would enter the 4<sup>th</sup> dimension. If that sounds unimaginable... well, it is! We are constrained to 3D space, after all. And to cap that short summary, here is a picture of a tesseract -- the 4D equivalent of a cube!
+Now, by analogy, to get to the 4<sup>th</sup> dimension, we need to move in a direction we have not moved in yet. If we could just "jump" in a new direction, we would enter the 4<sup>th</sup> dimension. If that sounds unimaginable... well, for us 3D humans, it is (unless you happen to be Fields Medalist Bill Thurston, [apparently](https://www.quora.com/What-is-a-visual-mathematician). We are stuck in 3D space, after all. And to cap that short summary, here is a picture of a tesseract -- the 4D equivalent of a cube!
 
 <img src="https://user-images.githubusercontent.com/60443351/131231581-e37f6300-1afb-47f9-a82d-e42ba5e4dff1.png" alt="Tesseract Schlegel Wireframe" width="200"/>
 
@@ -78,11 +78,13 @@ We start with this polytope because it is perhaps the most comprehensible out of
 
 
 **More on Rotations in 4D**
+
 Rotation of 4D objects is done about a plane, or a 2D sheet. This can be understood by analogy by recalling that a polygon constrained to the 2D plane can only rotate about a point (0D), and a solid constrained to 3D space can only rotate about a line (1D). We can see that in order to rotate an object, it needs a pivot that is two dimensions lower. Following that logic, a 4D object will have to rotate about a 2D sheet. As the object rotates in 4D space, the 2D plane of rotation remains fixed.
 
 
 
 ### Next Steps!
 
-Our main end goal is to look at and interact with these 4D shapes in a VR environment. Being able to walk around these objects and move them
-Upcoming steps include generation of random irregular 4-polytopes and porting to VR. Our original conception of this project was that We are particularly excited about putting these on a VR platform because interacting with these 4D objects as they move in a 3D space made possible by VR would increase the amount of information about these shapes we are able to retain when depicting them. Maybe our 3D brains will be more capable of understanding the 4th dimension!
+Our main end goal is to look at and interact with these 4D shapes in a VR environment. Being able to walk around these objects and interact with them in 3D VR space, rather than looking at them on a 2D computer screen, would be a significant increase in the amount of visual information from these 4D shapes we are able to retain. Because any time you project an object to a lower dimension, you lose some information. 
+
+Maybe after this work is done, our 3D brains will be more capable of understanding the fourth dimension! So stay tuned!
