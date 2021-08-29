@@ -16,7 +16,7 @@ While we are in the 1<sup>st</sup> dimension, we can move back and forth across 
 
 Finally, to get to the 3<sup>rd</sup> dimension, aka the dimension humans live in, we jump up off the 2D plane.
 
-Now, by analogy, to get to the 4<sup>th</sup> dimension, we need to move in a direction we have not moved in yet. If we could just "jump" in a new direction, we would enter the 4<sup>th</sup> dimension. If that sounds unimaginable... well, for us 3D humans, it is (unless you happen to be Fields Medalist Bill Thurston, [apparently](https://www.quora.com/What-is-a-visual-mathematician)). We are stuck in 3D space, after all. And to cap that short summary, here is a picture of a tesseract -- the 4D equivalent of a cube!
+Now, by analogy, to get to the 4<sup>th</sup> dimension, we need to move in a direction we have not moved in yet. If we could just "jump" again in a new direction, we would enter the 4<sup>th</sup> dimension. If that sounds unimaginable... well, for us humans, it is (unless you happen to be Fields Medalist Bill Thurston, [apparently](https://www.quora.com/What-is-a-visual-mathematician)). Our bodies are stuck in 3D space, after all. And to cap that short summary, here is a picture of a tesseract -- the 4D equivalent of a cube!
 
 <img src="https://user-images.githubusercontent.com/60443351/131231581-e37f6300-1afb-47f9-a82d-e42ba5e4dff1.png" alt="Tesseract Schlegel Wireframe" width="200"/>
 
@@ -39,7 +39,7 @@ We begin with representing the shapes mathematically in 4D, calculate the rotati
 ### Regular 4D Shapes
 Currently, we've created visualizations of all six convex regular 4-polytopes -- the four-dimensional equivalent of the platonic solids -- under simple rotations in 2D. Put simply, we have all six "standard" 4D shapes projected into 2D, so you can view them on your computing device screen. 
 
-Also, note that when we rotate a 4D object, we have to rotate about a plane, such as the XY-plane or the YW-plane (W is the 4<sup>th</sup> dimension. For more on that, refer to the end of this section. And now, without further ado, here are the visuals created using `pygame` in our Jupyter Notebook!
+Also, note that when we rotate a 4D object, we have to rotate about a plane, such as the XY-plane or the YW-plane (W is the 4<sup>th</sup> dimension). For more on that, refer to the end of this section. And now, without further ado, here are the visuals created using `pygame` in our Jupyter Notebook!
 
 The six convex regular 4-polytopes are: 
 
