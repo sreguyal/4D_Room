@@ -12,7 +12,7 @@ While we are in the 1<sup>st</sup> dimension, we can move back and forth across 
 
 Finally, to get to the 3<sup>rd</sup> dimension, aka the dimension humans live in, we jump up off the 2D plane.
 
-Now, by analogy, to get to the 4<sup>th</sup> dimension, we need to move in a direction we have not moved in yet. If we could just "jump" in a new direction, we would enter the 4<sup>th</sup> dimension. If that sounds unimaginable... well, for us 3D humans, it is (unless you happen to be Fields Medalist Bill Thurston, [apparently](https://www.quora.com/What-is-a-visual-mathematician). We are stuck in 3D space, after all. And to cap that short summary, here is a picture of a tesseract -- the 4D equivalent of a cube!
+Now, by analogy, to get to the 4<sup>th</sup> dimension, we need to move in a direction we have not moved in yet. If we could just "jump" in a new direction, we would enter the 4<sup>th</sup> dimension. If that sounds unimaginable... well, for us 3D humans, it is (unless you happen to be Fields Medalist Bill Thurston, [apparently](https://www.quora.com/What-is-a-visual-mathematician)). We are stuck in 3D space, after all. And to cap that short summary, here is a picture of a tesseract -- the 4D equivalent of a cube!
 
 <img src="https://user-images.githubusercontent.com/60443351/131231581-e37f6300-1afb-47f9-a82d-e42ba5e4dff1.png" alt="Tesseract Schlegel Wireframe" width="200"/>
 
