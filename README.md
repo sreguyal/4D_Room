@@ -5,10 +5,14 @@ You have been transported to a world with four spatial dimensions! Unfortunately
 
 ### What is 4D? 
 So, for those who are wondering how we can physically understand the fourth dimension, let's quickly go through the lower dimensions.
+
 The 0<sup>th</sup> dimension is a point. Move in any direction and we get to the 1<sup>st</sup> dimension, a line.
+
 While we are in the 1<sup>st</sup> dimension, we can move back and forth across the line. But we want more excitement in life, so we move away from the line. We have reached a 2D world. You can imagine this as an infinite flat sheet of paper.
+
 Finally, to get to the 3<sup>rd</sup> dimension, aka the dimension humans live in, we jump up off the 2D plane.
-Now, by analogy, to get to the 4<sup>th</sup> dimension, we need to move in a direction we have not moved in yet. If we could just "jump" in a new direction, we would enter the 4<sup>th</sup> dimension. If that sounds incomprehensible... well, it kind of is! We are constrained to 3D space, after all. And to cap that short summary, here is a picture of a tesseract -- the 4D equivalent of a cube!
+
+Now, by analogy, to get to the 4<sup>th</sup> dimension, we need to move in a direction we have not moved in yet. If we could just "jump" in a new direction, we would enter the 4<sup>th</sup> dimension. If that sounds unimaginable... well, it is! We are constrained to 3D space, after all. And to cap that short summary, here is a picture of a tesseract -- the 4D equivalent of a cube!
 
 <img src="https://user-images.githubusercontent.com/60443351/131231581-e37f6300-1afb-47f9-a82d-e42ba5e4dff1.png" alt="Tesseract Schlegel Wireframe" width="200"/>
 
@@ -40,6 +44,7 @@ The tesseract / 8-cell. This is the 4D equivalent of the cube.
 <video width="200" controls>
   <source src="
 https://user-images.githubusercontent.com/60443351/131234157-1861d459-411c-4a3b-a050-734aaf14bacc.mp4" type="video/mp4">
+</video>
 
 
 We start with this polytope because it is probably the most comprehensible out of a set of very incomprehensible figures. The first video depicts one simple rotation about the XY-plane.
