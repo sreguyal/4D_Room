@@ -6,9 +6,9 @@ You have been transported to a world with four spatial dimensions! Unfortunately
 ### What is the Fourth Spatial Dimension? 
 So, for those who are wondering how we can physically understand the fourth dimension, let's quickly go through the lower dimensions.
 
-The 0<>th</sup> dimension is a point. Move in any direction and we get to the 1<sup>st</sup> dimension, a line.
+The 0<sup>th</sup> dimension is a point. Move in any direction and we get to the 1<sup>st</sup> dimension, a line.
 
-While we are in the 1<sup>st</sup> dimension, we can move back and forth across the line. But we want more excitement in life, so we move away from the line. We have reached a 2D world. You can imagine this as an infinite flat sheet of paper.
+While we are in the 1<sup>st</sup> dimension, we can move back and forth across the line. But we want more excitement in life, so we move away from the line. We have reached the 2<sup>nd</sup> dimension. You can imagine this as an infinite flat sheet of paper.
 
 Finally, to get to the 3<sup>rd</sup> dimension, aka the dimension humans live in, we jump up off the 2D plane.
 
