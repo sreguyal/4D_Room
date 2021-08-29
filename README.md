@@ -42,10 +42,10 @@ The six convex regular 4-polytopes are:
 The tesseract / 8-cell. This is the 4D equivalent of the cube. 
 
 
-![tesseract1simplerot mp4](https://user-images.githubusercontent.com/60443351/131235041-833d1428-2990-437a-b920-1e7297d26381.
+![tesseract1simplerot mp4](https://user-images.githubusercontent.com/60443351/131235041-833d1428-2990-437a-b920-1e7297d26381.gif)
 
 ![tesseract2simplerot](https://user-images.githubusercontent.com/60443351/131235273-21a59ce0-9d0b-405d-87ee-e3d92d82a40b.gif)
-gif)
+
 
 
 We start with this polytope because it is probably the most comprehensible out of a set of very incomprehensible figures. The first gif depicts one simple rotation about the XY-plane. Although it is about a plane, within 3D space it is only comprehensible as a rotation about an axis, as you can see. The second gif depicts the application of two simple rotations about the XY-plane and YW-plane.
