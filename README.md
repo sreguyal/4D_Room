@@ -85,6 +85,6 @@ Rotation of 4D objects is done about a plane, or a 2D sheet. This can be underst
 
 ### Next Steps!
 
-Our main end goal is to look at and interact with these 4D shapes in a VR environment. Being able to walk around these objects and interact with them in 3D VR space, rather than looking at them on a 2D computer screen, would be a significant increase in the amount of visual information from these 4D shapes we are able to retain. Because any time you project an object to a lower dimension, you lose some information. 
+Our main end goal is to look at and interact with these 4D shapes in a VR environment. Being able to walk around these objects and interact with them in 3D VR space, rather than looking at them on a 2D computer screen, would be a significant increase in the amount of visual information from these 4D shapes we are able to retain. Any time you project an object to a lower dimension, you lose some information. 
 
 Maybe after this work is done, our 3D brains will be more capable of understanding the fourth dimension! So stay tuned!
