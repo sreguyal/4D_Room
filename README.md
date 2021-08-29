@@ -26,9 +26,11 @@ You may have already seen the popular visualization of the fourth spatial dimens
 
 So, how is 4D Room different? 4D Toys allows you to see the _intersection_ of a 4D object with 3D space. 4D Room aims to show the _projection_ of a 4D object into 3D space. To make the difference clearer, here is a picture showing the intersection and the projection of a 3D cube in a 2D plane.
 
+<img src="https://user-images.githubusercontent.com/60443351/131263804-c486f0b1-87d2-4aaa-a5a2-b39e83170697.jpg" alt="A Cube" width="200"/>
 
 
-As you can see, the projection gives much more understanding of what the two-dimensional drawing of the cube actually represents. In particular, the projection uses certain tricks to give a sense of depth in an additional dimension.
+
+As you can see, the intersection only shows one 2D slice of the cube, and doesn't really give much understanding of its 3D nature. On the other hand, the projection is able to communicate some idea of the cube in its entirety by using tricks to give a sense of depth in an additional dimension.
 
 We begin with representing the shapes mathematically in 4D, calculate the rotations of these shapes, and then display their projections into lower dimensions that are understandable for humans. 
 
