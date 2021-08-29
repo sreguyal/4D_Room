@@ -1,6 +1,9 @@
 # 4D Room
 You have been transported to a world with four spatial dimensions! Unfortunately, you are stuck inside a room with no exit. To pass the time, might as well practice seeing the fourth dimension.
 
+![5cell3simplerot](https://user-images.githubusercontent.com/60443351/131263511-c534df71-9a42-477d-83fe-3bb6aee14aa9.gif)
+
+
 ## Introduction
 
 ### What is the Fourth Spatial Dimension? 
